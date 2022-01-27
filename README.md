@@ -1,2 +1,2 @@
 # spark
-This repo maintain code and materials for spark learning
+This repo maintains code and materials for spark learning

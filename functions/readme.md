@@ -225,3 +225,7 @@ df3.withColumn("Avg",
               max(col("salary")).over(windowPartitionAgg)).show()
 
 ```
+
+We have applied all the four aggregate functions one by one. 
+
+We got four output columns added to the df3 that contains values for each row. These four columns contain the Average, Sum, Minimum, and Maximum values of the Salary column.
